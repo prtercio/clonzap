@@ -1,0 +1,18 @@
+yarn
+yarn init -y
+npm install express --save
+npm install socket.io 
+npm i cors 
+yarn add @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^4
+yarn add @chakra-ui/icons    
+yarn add react-router-dom@6 formik yup
+yarn add express-session      
+yarn add dotenv                  
+yarn add cors yup      
+yarn add socket.io express helmet
+yarn add nodemon              
+yarn add pg bcrypt  
+ioredis (yarn add ioredis connect-redis)
+redis
+redis-server
+npm install dotenv --save.  
